@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div>
-        <h1>Welcome To the Neighborhood!</h1>
+        <h1>Welcome, Neighbor!</h1>
         {isSubscribed ? (
           <SubscribedContent />
         ) : (
