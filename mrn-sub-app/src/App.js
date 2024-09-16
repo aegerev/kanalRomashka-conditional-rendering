@@ -16,7 +16,7 @@ function App() {
           <SubscribedContent />
         ) : (
         <div>
-            <p>Subscribe to unlock the latest article from the Neighborhood:</p>
+            <p>Subscribe to unlock the latest article from the Neighborhood.</p>
             <button onClick={() => setIsSubscribed(true)}>
                 Subscribe Today
             </button>
