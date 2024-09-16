@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import WontYouBeMyNeighbor from './assets/MRN_start.jpg';
+import WontYouBeMyNeighbor from "./assets/MRN-start.jpg";
 import MisteRogersFeedingFish from './assets/FeedingFish.jpg';
 import HeinzPlusMisterRogers from './assets/MisteRogersSet.jpg';
 import './App.css';
