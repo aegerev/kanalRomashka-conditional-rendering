@@ -68,6 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ## Credits
 © 2024 Alexander Egerev. All Rights Reserved. <br/>
 © 2024 MIT xPRO. All Rights Reserved. <br/>
-"Mister Rogers' Neighborhood" and its elements, including but not limited to, logos, characters, and songs are copyrighted by Fred M. Rogers and Family Communications. © 2001 Fred M. Rogers and Family Communications, Inc. All Rights Reserved. 
-© 2001 Fred rogers Productions. All Rights Reserved.
+"Mister Rogers' Neighborhood" and its elements, including but not limited to, logos, characters, and songs are copyrighted by Fred M. Rogers and Family Communications. © 2001 Fred M. Rogers and Family Communications, Inc. All Rights Reserved.  <br/>
+© 2001 Fred Rogers Productions. All Rights Reserved.
 
