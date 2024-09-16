@@ -1,6 +1,4 @@
 import React, {useState} from 'react';
-import MisterRogers from './assets/MR_puppets.jpg';
-import RogersLetter from './assets/MRN_Letter.jpg';
 import WontYouBeMyNeighbor from './assets/MRN_start.jpg';
 import MisteRogersFeedingFish from './assets/FeedingFish.jpg';
 import HeinzPlusMisterRogers from './assets/MisteRogersSet.jpg';
