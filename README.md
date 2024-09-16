@@ -8,7 +8,7 @@ This project talks about the biography of Fred Rogers, known to all as Mister Ro
 
 Putting Mister Rogers aside, however, the REAL aspect of the project lies in Conditional Rendering in React. This is showcased in the "App.js" file. If the user is subscribed, then the article (previously mentioned) is showcased. If not, then they see the message "Subscribe to unlock the latest article from the Neighborhood".
 
-### Deployment
+## Deployment
 
 You can test the project for yourself: 
 
