@@ -71,12 +71,12 @@ function SubscribedContent() {
 
         This reminds me of one of the final quotes that visitors at Graceland hear, where Elvis' daughter, Lisa Marie, recalls the connection between her father's stage presence and who he was as a person:
 
-          "Whatever he emanated on the stage was what he was when he was off.  I think people just felt his presence, it came through in his music, it came through on stage, his being was what was coming through. I just think he touches the spirit... his spirit came through in whatever he did and it would touch other spirits.""
+          "Whatever he emanated on the stage was what he was when he was off.  I think people just felt his presence, it came through in his music, it came through on stage, his being was what was coming through. I just think he touches the spirit... his spirit came through in whatever he did and it would touch other spirits."
 
         This statement is indicative of the relationship that both Fred and Elvis had with their legions of fans and their ability to convey their personalities through mediums that affected their listeners and viewers in powerful ways.
 
         <br/> <br/>
-        
+
         Both Fred Rogers and Elvis Presley were innovators in their emerging mediums, forging new paths, and making their stamp on American culture with legacies we can still see today. Elvis fused together a range of musical styles and produced rock n' roll, while Fred pulled from multiple disciplines and his artistic talents to create a new avenue for television programming. Their placement on postal stamps is indicative of their cultural impact and commemorates their unique contributions, just one of the many connections between these two surprisingly similar icons.
 
       </p>
