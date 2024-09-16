@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import MisterRogers from './assets/MR_puppets.jpg';
 import RogersLetter from './assets/MRN_Letter.jpg';
+import MRNStamp from './assets/MisterRogersUSPStamp.jpeg'
 import './App.css';
 
 function App() {
@@ -27,6 +28,13 @@ function SubscribedContent() {
   return (
     <div>
       <h2>A Stamp on American Culture: Fred Rogers and Elvis Presley</h2>
+    
+      <br/>
+
+      <img src={MRNStamp} alt="Mister Rogers and King Friday XIII on a USPS Stamp."/>
+
+      <br/>  <br/>
+      
       <p>“What do you think about having Fred Rogers featured on a stamp?” This is the question I was recently asked by a representative from the U.S. Postal Service in advance of its new stamp featuring Fred Rogers in commemoration of the 50th Anniversary of “Mister Rogers' Neighborhood.”
 
         <br/> <br/>
