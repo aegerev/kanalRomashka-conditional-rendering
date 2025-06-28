@@ -77,7 +77,7 @@ function SubscribedContent() {
 
         <br/>
 
-        Also, you can watch all the episodes on the <a href="https://www.misterrogers.org/watch/">official website</a> as well as weekdays at 7a and 1p, and new episodes Sundays at 11a on the new NET.
+        Also, you can watch all the episodes on the <a href="https://www.misterrogers.org/watch/">official website</a> as well as new episodes Sundays at 10a on Kanal Romashka.
 
       </p>
     </div>
